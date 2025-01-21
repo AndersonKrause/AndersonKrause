@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anderson Krause
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, Python, JS
+- 🌱 I’m currently learning Java, Python, C#
 - 💞️ I’m looking to collaborate on apps
 - ⚡ Fun fact:I'm Brazilian, I used to live in Dublin Ireland and I currently live in Berlin Germany.
 
